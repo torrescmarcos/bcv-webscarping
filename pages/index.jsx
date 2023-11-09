@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function indexPage() {
+export default function indexPage () {
   return (
     <></>
   )

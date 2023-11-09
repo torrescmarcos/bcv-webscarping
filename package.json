@@ -1,0 +1,25 @@
+{
+  "name": "bcv-webscraping",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@vercel/kv": "^0.2.4",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "https": "^1.0.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "next": "^14.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
